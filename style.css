@@ -8,6 +8,14 @@ img{
   height: 50%;
 }
 
-.navbar a{
-  background-color: lightblue;
+.navbar{
+  background-color: black;
+}
+
+.navbar .navbar-brand:hover{
+  color: white;
+}
+
+.navbar{
+  color: white;
 }
